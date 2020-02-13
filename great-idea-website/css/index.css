@@ -116,25 +116,30 @@ button {
 	margin-top:25px;
 	margin-bottom:25px;
 }
+.mid-img{
+	padding:15px;
+}
 
 /* Section two styles */
 .two{
 	border-top: 1px solid black;
 	display:inline-block;
-	width:100%
+	width:100%;
+	padding:20px;
 }
-div.features {
-	display:inline-block;
-	width:49%;
-}
-div.about {
+.sectionTwo-containers{
 	display:inline-block;
 	width:49%
 }
 
 /* Section three styles */
 .three{
-	border:1px solid black;
+	border-bottom:1px solid black;
+	padding:20px;
+}
+.sectionThree-containers{
+	display:inline-block;
+	width:33%;
 }
 
 /* Footer styles */
