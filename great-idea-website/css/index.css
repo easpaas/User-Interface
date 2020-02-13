@@ -66,10 +66,13 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* Header Styles */
 nav {
 	width:70%;
 	display:inline-block;
 	padding:25px;
+	vertical-align:middle;
 }
 nav a {
 	text-align:center;
@@ -78,6 +81,33 @@ nav a {
 	display:inline-block;
 	width:16%;
 }
+.logo {
+	vertical-align:middle;
+	margin-left:68px;
+}
+
+/* First Section styles */
+.one {
+	padding:30px;
+}
+.innovate {
+	display:inline-block;
+	width:50%;
+	vertical-align:middle;
+	text-align:center;
+	margin:15px;
+}
+.innovate h1 {
+	font-size:75px;
+}
+button {
+	padding:10px 55px 10px 55px;
+}
+.code-img{
+	vertical-align: middle;
+}
+
+
 
 .mid-container{
 	border-top: 1px solid black;
