@@ -86,7 +86,7 @@ nav a {
 	margin-left:68px;
 }
 
-/* First Section styles */
+/* Section one styles */
 .one {
 	padding:30px;
 }
@@ -107,8 +107,7 @@ button {
 	vertical-align: middle;
 }
 
-
-
+/* Mid-container used to add top and bottom border around middle of page */
 .mid-container{
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
@@ -118,6 +117,27 @@ button {
 	margin-bottom:25px;
 }
 
+/* Section two styles */
+.two{
+	border-top: 1px solid black;
+	display:inline-block;
+	width:100%
+}
+div.features {
+	display:inline-block;
+	width:49%;
+}
+div.about {
+	display:inline-block;
+	width:49%
+}
+
+/* Section three styles */
+.three{
+	border:1px solid black;
+}
+
+/* Footer styles */
 #copyright {
 	text-align:center;
 }
