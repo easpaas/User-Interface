@@ -143,6 +143,12 @@ button {
 }
 
 /* Footer styles */
+footer {
+	padding-top:20px;
+}
+address p{
+	margin-bottom:20px;
+}
 #copyright {
 	text-align:center;
 }
